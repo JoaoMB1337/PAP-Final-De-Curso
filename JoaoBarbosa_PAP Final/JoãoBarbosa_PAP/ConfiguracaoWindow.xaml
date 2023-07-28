@@ -1,0 +1,162 @@
+﻿<Window x:Class="JoãoBarbosa_PAP.ConfiguracaoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JoãoBarbosa_PAP"
+        mc:Ignorable="d"
+        Title="ConfiguracaoWindow" Height="750" Width="1050" WindowStartupLocation="CenterScreen"  ResizeMode="NoResize" VerticalAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Topmost="True" WindowStyle="None">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border  BorderBrush="#FFE6E0E0" BorderThickness="3" Background="#FFD1D1D1">
+            <StackPanel Grid.Column="0" Background="#252526">
+
+                <Button x:Name="Funcionarios" Content="Funcionarios" Margin="3,40,0,10" HorizontalAlignment="Left" Height="40" Width="240" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="18" BorderBrush="#252526" Click="Funcionarios_Click" >
+                    <Button.Background>
+                        <ImageBrush AlignmentX="Left" ImageSource="Imagens/ConfiguraçoesProdutosRes/Funcionarios.png" Stretch="Uniform"/>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="AdicionarFunconarios" Content="     Adicionar Funcionarios" Margin="3,40,0,10" HorizontalAlignment="Left" Height="40" Width="240" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="18" BorderBrush="#252526" Click="AdicionarFunconarios_Click" >
+                    <Button.Background>
+                        <ImageBrush AlignmentX="Left" ImageSource="Imagens/ConfiguraçoesProdutosRes/AdicionarFuncionarios.png" Stretch="Uniform"/>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="EditarFuncionarios" Content=" Editar Funcionarios" Margin="3,40,0,10" HorizontalAlignment="Left" Height="40" Width="240" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="18" BorderBrush="#252526" Click="EditarFuncionarios_Click" >
+                    <Button.Background>
+                        <ImageBrush AlignmentX="Left" ImageSource="Imagens/ConfiguraçoesProdutosRes/DefiniçoesFuncionarios.png" Stretch="Uniform"/>
+                    </Button.Background>
+                </Button>
+                
+
+            </StackPanel>
+        </Border>
+
+        <Button x:Name="SairBTN" Content="Sair" Margin="2,430,0,10" HorizontalAlignment="Center" Height="40" Width="240" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="18" BorderBrush="#252526" Click="SairBTN_Click" VerticalAlignment="Bottom" >
+            <Button.Background>
+                <ImageBrush AlignmentX="Left" ImageSource="Imagens/MainWindowRes/LogoutIcon.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+
+        <TabControl Grid.Column="1" Margin="0,-20,0,0 " x:Name="TabControlMain">
+            <TabItem Header="MostarFunci" Visibility="Hidden" >
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid AutoGenerateColumns="False" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Name="DataGridFuncionarios" ItemsSource="{Binding Path=CarregarFuncionarios}" Margin="5,5,0,15" SelectionMode="Single" CanUserAddRows="False" CanUserDeleteRows="False" Width="783"  >
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn Header="Foto"  IsReadOnly="True" Width="120" CanUserResize="False">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Source="{Binding Userimage}" Width="50" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTextColumn Binding="{Binding Path=codigouser}" Visibility="Hidden" />
+                            <DataGridTextColumn Binding="{Binding Path=nome}" Header="Nome" Width="200" IsReadOnly="True" CanUserResize="False"  FontSize="18"/>
+                            <DataGridTextColumn Binding="{Binding Path=NomePrivilegio}" Header="Cargo" Width="130"  CanUserResize="False" FontSize="18" IsReadOnly="True" />
+                            <DataGridTextColumn Binding="{Binding Path=contacto}" Header="Contacto" Width="110" IsReadOnly="True"  CanUserResize="False" FontSize="18" />
+                            <DataGridTextColumn Binding="{Binding Path=email}" Header="Email" Width="215" IsReadOnly="True"   CanUserResize="False" FontSize="18"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                </Grid>
+
+            </TabItem>
+
+            <TabItem Header="Add" Visibility="Hidden">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="65"/>
+                        <RowDefinition Height="90"/>
+                        <RowDefinition Height="90"/>
+                        <RowDefinition Height="90"/>
+                        <RowDefinition Height="90"/>
+                        <RowDefinition Height="90"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="25" />
+                        <ColumnDefinition Width="250" />
+                        <ColumnDefinition Width="250"/>
+                    </Grid.ColumnDefinitions>
+                    <Image  Source = "{StaticResource UserLoginIcon}" x:Name="PreviewImagemUser" Grid.Column="0"  Grid.Row="1" Grid.RowSpan="2" Stretch="Uniform" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="3,0,0,0" />
+                    <Button x:Name="BtnImagemUser" Grid.Row="3" Margin="8" Click="BtnImagemUser_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source = "{StaticResource OpenFolder}" Width="30" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" > Carregar Imagem</TextBlock>
+                        </StackPanel>
+                    </Button>
+                    <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2" Margin="3">
+                        <Label Content="Primeiro Nome:" FontSize="18" />
+                        <TextBox x:Name="NomeUser" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="200" MaxLength="55"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="3" Margin="3">
+                        <Label Content="Password:" FontSize="18" />
+                        <PasswordBox x:Name="PasswordUser" MaxLength="45" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="200"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="2" Margin="3">
+                        <Label Content="Contacto:" FontSize="18" />
+                        <TextBox x:Name="ContactoUser" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="200" MaxLength="9"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="2" Margin="3">
+                        <Label Content="Email:" FontSize="18" />
+                        <TextBox x:Name="EmailUser" MaxLength="70" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="200" />
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Grid.Row="4" Grid.Column="2" Margin="3">
+                        <Label Content="Morada:" FontSize="18" />
+                        <TextBox x:Name="MoradaUser" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="200" MaxLength="45"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="3" Margin="3">
+                        <Label Content=" Confirmar Password:" FontSize="18" />
+                        <PasswordBox x:Name="ConfirmarPasswordUser" MaxLength="45" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="200"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="3" Margin="3">
+                        <Label Content="Cargo" FontSize="18" />
+                        <ComboBox x:Name="ComboBoxPrivilegio"  Grid.Row="4" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Width="200" HorizontalAlignment="Left"/>
+                    </StackPanel>
+
+                    <Button x:Name="BtnGuardarUser" Grid.Row="4" Grid.Column="3" Margin="99,253,-99,-253" Click="BtnGuardarUser_Click" >
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source = "{StaticResource Save}" Width="50" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                            <TextBlock Text=" Guardar" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25"/>
+                        </StackPanel>
+                    </Button>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Editar/apagar" Visibility="Hidden">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid AutoGenerateColumns="False" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Name="DataGridEditarFuncionarios" ItemsSource="{Binding Path=CarregarFuncionarios}" Margin="5,5,0,15" SelectionMode="Single" CanUserAddRows="False" CanUserDeleteRows="False" MouseDoubleClick="DataGridEditarFuncionarios_MouseDoubleClick" Width="783"  >
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn Header="Foto"  IsReadOnly="True" Width="120" CanUserResize="False">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Source="{Binding Userimage}" Width="50" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTextColumn Binding="{Binding Path=codigouser}" Visibility="Hidden" />
+                            <DataGridTextColumn Binding="{Binding Path=nome}" Header="Nome" Width="200" IsReadOnly="True" CanUserResize="False"  FontSize="18"/>
+                            <DataGridTextColumn Binding="{Binding Path=NomePrivilegio}" Header="Cargo" Width="130"  CanUserResize="False" FontSize="18" IsReadOnly="True" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+
+
+    </Grid>
+</Window>

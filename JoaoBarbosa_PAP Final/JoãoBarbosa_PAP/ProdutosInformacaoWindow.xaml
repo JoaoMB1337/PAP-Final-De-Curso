@@ -1,0 +1,82 @@
+﻿<Window x:Class="JoãoBarbosa_PAP.ProdutosInformacaoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JoãoBarbosa_PAP"
+        mc:Ignorable="d"
+         Height="420" Width="420" WindowStartupLocation="CenterScreen" ShowInTaskbar="False" ResizeMode="NoResize" WindowStyle="None" Loaded="Window_Loaded">
+    <Grid Background="#FFE5E5E5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="55"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1" Height="54" Width="150">
+            <Label Content="Nome:" FontSize="13" />
+            <TextBox x:Name="NomeProduto" MaxLength="45" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="135" Margin="0,0,0,0"/>
+        </StackPanel>
+        <TextBlock x:Name="codigoproduto" Visibility="Hidden"/>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1" Height="54" Width="150">
+            <Label Content="Preço:" FontSize="13" />
+            <TextBox x:Name="PrecoProduto" MaxLength="45" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="135" Margin="0,0,0,0" TextChanged="PrecoProduto_TextChanged"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="1" Margin="3" Height="54" Width="150">
+            <Label Content="Categoria:" FontSize="13" />
+            <ComboBox x:Name="ComboBoxCategoria"  Grid.Row="4" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Width="140" HorizontalAlignment="Left" SelectedIndex="1"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="3" Margin="20,0,0,0" Height="54" Width="150">
+            <Label Content="Stock Disponivel:" FontSize="13" />
+            <TextBox x:Name="StockDisponivel" MaxLength="45" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="125" TextChanged="StockDisponivel_TextChanged" />
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="3"  Margin="20,0,0,0" Height="54" Width="150">
+            <Label Content="Maximo stock:" FontSize="13" />
+            <TextBox x:Name="StockMax" MaxLength="45" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="125" TextChanged="StockMax_TextChanged" />
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="3"  Margin="20,0,0,0" Height="54" Width="150">
+            <Label Content="Minino stock:" FontSize="13" />
+            <TextBox x:Name="StockMin" MaxLength="45" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="25" Width="125" TextChanged="StockMin_TextChanged" />
+        </StackPanel>
+        <Image x:Name="PreviewImagemProduto" Grid.Column="1"  Grid.Row="4" Grid.ColumnSpan="3" Stretch="Uniform" VerticalAlignment="Center" HorizontalAlignment="Center"  Height="150" Width="150" Margin="95,13,96,7" />
+        <Button x:Name="EditarImagem" Grid.Column="1"  Grid.Row="5" Grid.ColumnSpan="3" Height="30" Width="70" Click="EditarImagem_Click" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source = "{StaticResource OpenFolder}" Width="20"  HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" >Abrir</TextBlock>
+            </StackPanel>
+        </Button>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="5" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,-97,-11" >
+            <Button x:Name="Apagar" Grid.Column="1"  Grid.Row="5" Grid.ColumnSpan="3" Height="30" Width="60" Click="Apagar_Click"  >
+                <StackPanel Orientation="Horizontal">
+                    <Image Source = "{StaticResource apagar}" Width="16" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  > Apagar</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button x:Name="Editar" Grid.Column="1"  Grid.Row="5" Grid.ColumnSpan="3" Height="30" Width="70" Click="Editar_Click" >
+                <StackPanel Orientation="Horizontal">
+                    <Image Source = "{StaticResource confirmar}" Width="17" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" >Atualizar</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button x:Name="cancelar" Grid.Column="1"  Grid.Row="5" Grid.ColumnSpan="3" Height="30" Width="70" Click="cancelar_Click"  >
+                <StackPanel Orientation="Horizontal">
+                    <Image Source = "{StaticResource cancelar}" Width="14" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" >Sair</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

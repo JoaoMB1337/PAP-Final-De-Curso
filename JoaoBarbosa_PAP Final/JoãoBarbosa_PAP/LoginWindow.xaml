@@ -1,0 +1,23 @@
+﻿<Window x:Class="JoãoBarbosa_PAP.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JoãoBarbosa_PAP"
+        mc:Ignorable="d"
+        Title="Stocker Login" Height="400" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#252526" Icon="ProgramaLogo.ico"   >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Image Grid.Row="0" Margin="0,5" Source="{StaticResource UserLoginIcon}"/>
+        <Label Grid.Row="1" Content="Usuario:" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White"/>
+        <TextBox Grid.Row="1" x:Name="UserTxt" Height="20" Width="160" VerticalAlignment="Center" FontSize="14"/>
+        <Label Grid.Row="2" Content="Password:" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White"/>
+        <PasswordBox Grid.Row="2" x:Name="PasswordTxt" Height="20" Width="160" VerticalAlignment="Center" FontSize="14"/>
+        <Button Grid.Row="3" x:Name="botaologin" Content="Login" Height="50" Width="160" FontSize="25" Click="botaologin_Click"/>
+    </Grid>
+</Window>

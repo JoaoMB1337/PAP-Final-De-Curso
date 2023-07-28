@@ -1,0 +1,1155 @@
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\Core.Number5.MySql.dll
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\CriarCategoriaWindow.g.cs
+C:\Users\João Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\CriarCategoriaWindow.baml
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\VendasWindow.g.cs
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\VendasWindow.baml
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\Manuel Barbosa\Desktop\JoãoBarbosa_PAP\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\VendasWindow.g.cs
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\VendasWindow.baml
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\Manuel Barbosa\Desktop\Pap_Verçoes\Dia 2401\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1402\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1502\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2802\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\Imagens\ConfiguraçaoWindowRes\ConfiguracaoWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2902\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\Imagens\ConfiguraçaoWindowRes\ConfiguracaoWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0103\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1403\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\ConfigWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1603\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1703\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2704\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\InformacaoProdutoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 2804\JoãoBarbosa_PAP\obj\Debug\InformacaoProdutoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\InformacaoProdutoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\InformacaoProdutoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 0705\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1405\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\App.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+F:\PAP_Verçoes\Dia 1505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\PAP_Verçoes\Dia 2205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\Dia 2205\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+F:\Projetos\C#\2020\Pap Jota\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+D:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+D:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+F:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+F:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+F:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+F:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+F:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+F:\Dia 2505\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\App.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 2505\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+F:\Dia 2905\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+F:\Dia 2905\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 2905\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+F:\Dia 2905\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+F:\Dia 2905\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+F:\Dia 2905\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+F:\Dia 2905\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\App.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 2905\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\EditarFuncionariosWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 3005\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\Dia 3105\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+D:\Dia 0106\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\App.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+D:\Dia 0106\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\MySql.Data.dll
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+D:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\App.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+D:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+F:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+F:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+F:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+F:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+F:\Dia 0206\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\App.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 0206\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+F:\Dia 0306\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+F:\Dia 0306\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 0306\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+F:\Dia 0306\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+F:\Dia 0306\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+F:\Dia 0306\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+F:\Dia 0306\JoãoBarbosa_PAP\bin\Debug\MySql.Data.xml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\App.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+F:\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0306\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe.config
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\bin\Debug\JoãoBarbosa_PAP.pdb
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\bin\Debug\Google.Protobuf.dll
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\bin\Debug\Renci.SshNet.dll
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csprojAssemblyReference.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\LoginWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\MainWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\App.g.cs
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP_MarkupCompile.lref
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\App.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\CategoriaInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\ConfiguracaoWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\Imagens\Imagens.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\Imagens\MainWindowRes\MainWindowRes.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\Imagens\ProdutosWindowRes\ProdutosWindowRes.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\InformacaoFuncionarios.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\LoginWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\MainWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\ProdutosInformacaoWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\ProdutosWindow.baml
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.g.resources
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.GestorDeVendasWindow.resources
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.Properties.Resources.resources
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.GenerateResource.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CoreCompileInputs.cache
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.csproj.CopyComplete
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.exe
+C:\Users\João Barbosa\Desktop\João Barbosa PAP\Dia 0906\JoãoBarbosa_PAP\obj\Debug\JoãoBarbosa_PAP.pdb
